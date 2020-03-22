@@ -1,0 +1,52 @@
+body {
+color: #40514e;
+height: 100%;
+margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  color: #3cb371;
+}
+
+h2 {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 1.5rem;
+  margin-top: 0;
+  color: #3cb371;
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #48d1cc;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  color:white;
+}
+
+.garden-refurb {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+
+}
+
+.subtitle {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+
+}
+.Patio1 {
+  width: 90%;
+  height: auto;
+}
